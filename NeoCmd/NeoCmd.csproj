@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Neo.IronLua</RootNamespace>
     <AssemblyName>NeoCmd</AssemblyName>
-    <TargetFrameworks>net461</TargetFrameworks>
+    <TargetFrameworks>net451</TargetFrameworks>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>false</SignAssembly>

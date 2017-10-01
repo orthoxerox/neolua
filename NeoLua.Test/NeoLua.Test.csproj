@@ -3,7 +3,7 @@
     <ProjectGuid>{A25A607C-AEFE-491A-A3D3-0C934DD53B3C}</ProjectGuid>
     <RootNamespace>LuaDLR.Test</RootNamespace>
     <AssemblyName>LuaDLR.Test</AssemblyName>
-    <TargetFramework>net461</TargetFramework>
+    <TargetFramework>net451</TargetFramework>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>true</SignAssembly>

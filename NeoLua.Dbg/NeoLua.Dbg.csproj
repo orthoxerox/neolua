@@ -3,7 +3,7 @@
     <ProjectGuid>{64E0E32C-0BC4-413E-832E-1574506E4088}</ProjectGuid>
     <RootNamespace>Neo.IronLua</RootNamespace>
     <AssemblyName>Neo.Lua.Dbg</AssemblyName>
-    <TargetFrameworks>net461</TargetFrameworks>
+    <TargetFrameworks>net451</TargetFrameworks>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>true</SignAssembly>

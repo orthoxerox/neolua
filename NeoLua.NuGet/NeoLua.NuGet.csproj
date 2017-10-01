@@ -6,7 +6,7 @@
     <ProjectGuid>{0451BAEF-DF2E-4B98-8644-94EE9415E389}</ProjectGuid>
     <RootNamespace>NeoLua.NuGet</RootNamespace>
     <AssemblyName>NeoLua.NuGet</AssemblyName>
-    <TargetFramework>net461</TargetFramework>
+    <TargetFramework>net451</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
     <None Include="..\packages\NuGet.Manifest.Schema.2.0.4\Content\nuspec.2010.7.xsd">

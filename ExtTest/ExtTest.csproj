@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>ExtTest</RootNamespace>
     <AssemblyName>ExtTest</AssemblyName>
-    <TargetFramework>net461</TargetFramework>
+    <TargetFramework>net451</TargetFramework>
   </PropertyGroup>
   <PropertyGroup>
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>

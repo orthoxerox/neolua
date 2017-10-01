@@ -3,7 +3,7 @@
     <ProjectGuid>{2FB491E8-65AF-4C0D-A13E-4AF73419AE0C}</ProjectGuid>
     <RootNamespace>Neo.IronLua</RootNamespace>
     <AssemblyName>Neo.Lua.Desktop</AssemblyName>
-    <TargetFramework>net461</TargetFramework>
+    <TargetFrameworks>net451</TargetFrameworks>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>true</SignAssembly>
